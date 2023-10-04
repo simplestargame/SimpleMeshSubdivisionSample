@@ -14,7 +14,7 @@ Follow these steps to try out the Sample:
 1. Play the sample scene.
 1. Pressing the space key.
 
-# ランタイム メッシュワールドサンプル
+# ランタイムメッシュ細分化サンプル
 
 **ランタイムメッシュ細分化サンプル** リポジトリへようこそ！  
 このリポジトリは興味をもつ座標群を入力に、各座標周辺をメッシュ細分化するサンプルです。  
